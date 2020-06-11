@@ -2,4 +2,6 @@
 
 Collaboration Project: Anwar Akkari & Micheal Oluh
 
-Using the power of javaScript and the DOM API to build a clickable Rock Paper Scissors Game.
+1. Using the power of javaScript and the DOM API to build a clickable Rock Paper Scissors Game.
+
+2. Add Simple jQuery Refactoring 
