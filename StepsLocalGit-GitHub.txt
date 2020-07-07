@@ -1,18 +1,7 @@
-<<<<<<< HEAD
 1) Right Click Folder. Choose "Git Bash Here"
 2) $ git init
-3) $ git remote add origin
-4) $ git remote add origin [Repository URL]
-5) $ git remote -v
-6) $ git add .
-7) $ git commit -m "First Commit"
-=======
-1) Right Click Folder. Choose "Git Bash Here"
-2) $ git init
-3) $ git remote add origin
-4) $ git remote add origin [Repository URL]
-5) $ git remote -v
-6) $ git add .
-7) $ git commit -m "First Commit"
->>>>>>> 72894b8c377ff23f9020eae02d00b8955b077ff3
-8) $ git push origin master
+3) $ git remote add origin [Repository URL]
+4) $ git remote -v
+5) $ git add .
+6) $ git commit -m "First Commit"
+7) $ git push origin master
